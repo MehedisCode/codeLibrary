@@ -1,5 +1,6 @@
-command:
+First you need install these dependencies 
+Run these commands in your terminal:
 
-yarn add -D eslint prettier
-npx install-peerdeps --dev eslint-config-airbnb-base 
+yarn add -D eslint prettier  
+npx install-peerdeps --dev eslint-config-airbnb-base  
 yarn add -D eslint-config-prettier eslint-plugin-prettier
