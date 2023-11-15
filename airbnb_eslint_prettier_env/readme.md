@@ -41,7 +41,7 @@ eslintrc.json
 }
 ```
 
-<h2>Open VS code setting and paste the code</h2>
+<h2>Open VS code setting ( JSON ) and paste the code</h2>
 
 ```javascript
 {
