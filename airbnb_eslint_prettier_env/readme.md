@@ -2,9 +2,11 @@
 
 <p><strong>Run these commands in your terminal: </strong></p>
 
+```
 yarn add -D eslint prettier   
 npx install-peerdeps --dev eslint-config-airbnb-base  
 yarn add -D eslint-config-prettier eslint-plugin-prettier
+```
 
 <h2>Create a file name .eslintrc.json and paste the code</h2>
 
