@@ -8,6 +8,13 @@ npx install-peerdeps --dev eslint-config-airbnb-base
 yarn add -D eslint-config-prettier eslint-plugin-prettier
 ```
 
+<p><strong>Then run this command (initialization of eslintrc file): </strong></p>
+
+```
+./node_modules/.bin/eslint --init 
+```
+
+
 <h2>Create a file name .eslintrc.json and paste the code</h2>
 
 ``` 
